@@ -73,9 +73,9 @@ The global Contract Lifecycle Management (CLM) software market was valued at **$
 
 ## 💻 Open-Source GitHub Projects
 
-*Self-hosted contract management suites, e-signature engines, and AI contract administration platforms sorted strictly by GitHub stars (descending).*
+*Self-hosted contract management suites, e-signature engines, and AI contract administration platforms sorted strictly by GitHub_Stars (descending).*
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[DocuSeal](https://github.com/docusealco/docuseal)** | [![Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers) | Open-source platform for creating, filling, and signing digital contracts and PDF forms. Admin capabilities include user role governance, signature workflows, PDF form builders, automated notifications, webhooks, and embedded signing widgets. Fully self-hostable via Docker Compose. |
 | **[Documenso](https://github.com/documenso/documenso)** | [![Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | The open-source DocuSign alternative built with TypeScript and Next.js. Provides administrative control over multi-signer contract workflows, team workspaces, cryptographic audit trails, signing certificates, and flexible REST APIs. |
@@ -107,7 +107,7 @@ Contributions are warmly welcomed! Help keep this curated list the premier resou
 
 1. 🍴 **Fork** the repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/new-admin-tool`.
-3. 📝 Add your entry to the appropriate table (ensure open-source tools include social star badges linked to stargazers and maintain strict descending order).
+3. 📝 Add your entry to the appropriate table (ensure open-source tools include social Stars_Badges linked to stargazers and maintain strict descending order).
 4. 🚀 Submit a **Pull Request** with a brief summary of administrative features.
 
 ---
